@@ -23,3 +23,5 @@ host.bg
 online.dbank.bg
 dbank.bg
 www.dbank.bg
+185.209.216.0/22
+185.209.217.0/24
