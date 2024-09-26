@@ -20,3 +20,6 @@ www.superhosting.bg
 superhosting.bg
 www.host.bg
 host.bg
+online.dbank.bg
+dbank.bg
+www.dbank.bg
