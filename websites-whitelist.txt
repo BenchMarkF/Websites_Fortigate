@@ -30,3 +30,5 @@ LiveCFS1.fintechdatacenter.com
 185.209.217.0/24
 comm100.io
 *.comm100.io
+csdftp.csd-bg.bg
+193.22.248.253
