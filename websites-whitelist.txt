@@ -28,4 +28,4 @@ LiveCFS1.fintechdatacenter.com
 *.fintechdatacenter.com
 185.209.216.0/22
 185.209.217.0/24
-dash*.comm100.io
+*.comm100.io
