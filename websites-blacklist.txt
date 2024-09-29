@@ -44,3 +44,5 @@ airlogak.com
 gomoney.me
 links.mkt61.net
 mkt61.net
+sbm.mc
+*.sbm.mc
