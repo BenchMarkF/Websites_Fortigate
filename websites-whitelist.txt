@@ -32,3 +32,5 @@ comm100.io
 *.comm100.io
 csdftp.csd-bg.bg
 193.22.248.253
+cfhclearing.com
+*.cfhclearing.com
