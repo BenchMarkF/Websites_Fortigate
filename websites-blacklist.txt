@@ -30,7 +30,7 @@ concepts.bar
 thinkific.com
 triumphealth.com
 ipfs.dweb.link
-glitch.me
+*.glitch.me
 cloudflare-ipfs.com
 roomy-erratic-address.glitch.me
 nexo-event.com
