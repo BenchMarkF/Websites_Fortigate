@@ -65,5 +65,6 @@ releva-emails-prod.srv01.rlvclk.com
 brenobozzato.com
 u31718484.ct.sendgrid.net
 sendgrid.net
+bgzona.net
 .*fleek\.co
 .*fleek.co
