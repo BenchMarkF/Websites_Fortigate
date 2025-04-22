@@ -66,5 +66,4 @@ brenobozzato.com
 u31718484.ct.sendgrid.net
 sendgrid.net
 bgzona.net
-.*fleek\.co
-.*fleek.co
+*.fleek.co
