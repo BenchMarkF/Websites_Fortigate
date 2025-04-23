@@ -18,3 +18,4 @@
 193.22.248.253
 *.cfhclearing.com
 *.cadastre.bg
+kais.cadastre.bg
