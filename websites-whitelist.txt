@@ -11,10 +11,7 @@
 *.host.bg
 *.dbank.bg
 *.fintechdatacenter.com
-185.209.216.0/22
-185.209.217.0/24
 *.comm100.io
 *.csd-bg.bg
-193.22.248.253
 *.cfhclearing.com
 *.cadastre.bg
