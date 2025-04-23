@@ -17,3 +17,4 @@
 *.csd-bg.bg
 193.22.248.253
 *.cfhclearing.com
+*.cadastre.bg
