@@ -62,3 +62,4 @@ ipfs.dweb.link
 *.brenobozzato.com
 *.sendgrid.net
 *.bgzona.net
+*.mlsend.com
