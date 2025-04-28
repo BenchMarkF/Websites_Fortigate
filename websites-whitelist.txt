@@ -16,3 +16,4 @@
 *.cfhclearing.com
 *.cadastre.bg
 *.impulsegrowth.eu
+*.blessed-bg.com
