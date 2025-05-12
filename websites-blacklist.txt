@@ -32,7 +32,6 @@ ipfs.w3s.link
 ipfs.dweb.link
 *.glitch.me
 *.cloudflare-ipfs.com
-*.glitch.me
 *.nexo-event.com
 *.vsi4kifilmi.com
 *.beehiiv.com
@@ -63,3 +62,6 @@ ipfs.dweb.link
 *.sendgrid.net
 *.bgzona.net
 *.mlsend.com
+mlsend.com
+*.blogspot.be
+*.electrical-deals.co.uk
