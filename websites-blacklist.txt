@@ -64,3 +64,4 @@ ipfs.dweb.link
 *.mlsend.com
 *.blogspot.be
 *.electrical-deals.co.uk
+mail-update.b-cdn.net
