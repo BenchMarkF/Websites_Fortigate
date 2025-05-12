@@ -17,4 +17,3 @@
 *.cadastre.bg
 *.impulsegrowth.eu
 *.blessed-bg.com
-blessed-bg.com
