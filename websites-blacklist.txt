@@ -16,14 +16,14 @@
 *.stellarcontent.co.nz
 *.digitaloceanspaces.com
 *.speedtest.net
-*.fast.com
+*fast.com
 *.vsichkifilmi.com
 *.evenmart.com.bd
 *.filmisub.com
 *.cf-ipfs.com
 *.testproject.work
 *.bookshobby.com
-*.fleek.co
+*fleek.co
 *.books-depo.com
 ipfs.w3s.link
 *.concepts.bar
@@ -33,7 +33,7 @@ ipfs.dweb.link
 *.glitch.me
 *.cloudflare-ipfs.com
 *.nexo-event.com
-*.vsi4kifilmi.com
+*vsi4kifilmi.com
 *.beehiiv.com
 *.samcart.com
 *.njordventuregroup.com
