@@ -33,7 +33,7 @@ ipfs.dweb.link
 *.glitch.me
 *.cloudflare-ipfs.com
 *.nexo-event.com
-*vsi4kifilmi.com
+*vsi4kifilmi\.com
 *.beehiiv.com
 *.samcart.com
 *.njordventuregroup.com
