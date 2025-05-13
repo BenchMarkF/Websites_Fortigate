@@ -64,3 +64,5 @@ ipfs.dweb.link
 *.blogspot.be
 *.electrical-deals.co.uk
 mail-update.b-cdn.net
+^filmi.*\.com
+^filmi.*\.net
