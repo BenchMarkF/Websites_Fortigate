@@ -59,10 +59,9 @@ ipfs.dweb.link
 *.rlvclk.com
 *.brenobozzato.com
 *.sendgrid.net
-*bgzona\.net
+*bgzona.net
 *.mlsend.com
 *.blogspot.be
 *.electrical-deals.co.uk
 mail-update.b-cdn.net
-^filmi.*\.com
-^filmi.*\.net
+*filmi*.com
