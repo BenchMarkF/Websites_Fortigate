@@ -57,10 +57,9 @@ ipfs.dweb.link
 *.септик-в-крыму.рф
 *.escibaniabarbarach.com.ar
 *.rlvclk.com
-*.rlvclk.com
 *.brenobozzato.com
 *.sendgrid.net
-*.bgzona.net
+*bgzona\.net
 *.mlsend.com
 *.blogspot.be
 *.electrical-deals.co.uk
