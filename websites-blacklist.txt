@@ -65,3 +65,4 @@ ipfs.dweb.link
 *.electrical-deals.co.uk
 mail-update.b-cdn.net
 play.nova.bg
+*.ct.sendgrid.net
