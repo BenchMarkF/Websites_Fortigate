@@ -51,8 +51,6 @@ ipfs.dweb.link
 *.netsuite.com
 *.dramaleague.org
 *.neonemails.com
-*.neonemails.com
-*.5flowersint.com
 *.5flowersint.com
 *.септик-в-крыму.рф
 *.escibaniabarbarach.com.ar
@@ -66,3 +64,4 @@ ipfs.dweb.link
 mail-update.b-cdn.net
 play.nova.bg
 *.ct.sendgrid.net
+toro88-toro88.b-cdn.net
