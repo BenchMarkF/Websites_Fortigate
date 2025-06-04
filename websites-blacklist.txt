@@ -66,3 +66,7 @@ play.nova.bg
 *.ct.sendgrid.net
 toro88-toro88.b-cdn.net
 alcopone24-24.com
+dalian-tofa.com
+huktdq.blogspot.ba
+sport2000.de
+www.sport2000.de
