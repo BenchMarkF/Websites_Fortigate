@@ -79,3 +79,5 @@ exodus.com
 *.loucosmetic.com
 *.khnfrc.blogspot.dk
 *.pawanacreations.com
+*.gxvdhr.blogspot.cz
+*.wisestore.in
