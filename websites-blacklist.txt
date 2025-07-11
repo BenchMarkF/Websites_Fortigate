@@ -81,3 +81,5 @@ exodus.com
 *.pawanacreations.com
 *.gxvdhr.blogspot.cz
 *.wisestore.in
+upadaetin.b-cdn.net
+ecoglobe-bg.com
