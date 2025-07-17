@@ -83,3 +83,5 @@ exodus.com
 *.wisestore.in
 upadaetin.b-cdn.net
 ecoglobe-bg.com
+eurobak.kz
+*.wedgjx.blogspot.com
