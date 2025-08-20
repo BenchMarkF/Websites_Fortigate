@@ -1,6 +1,5 @@
 *.xvideos.com
 *.youporn.com
-*.zamunda.net
 *.arenabg.com
 *.ipfs.io
 *.dweb.link
