@@ -84,3 +84,4 @@ upadaetin.b-cdn.net
 ecoglobe-bg.com
 eurobak.kz
 *.wedgjx.blogspot.com
+*.emailupdating.pythonanywhere.com
