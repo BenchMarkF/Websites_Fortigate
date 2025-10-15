@@ -85,3 +85,5 @@ ecoglobe-bg.com
 eurobak.kz
 *.wedgjx.blogspot.com
 *.emailupdating.pythonanywhere.com
+*.hycchf.blogspot.ie
+*.rothschildcorp.com
