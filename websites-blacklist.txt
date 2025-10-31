@@ -87,3 +87,4 @@ eurobak.kz
 *.emailupdating.pythonanywhere.com
 *.hycchf.blogspot.ie
 *.rothschildcorp.com
+*.ct.sendgrid.net
