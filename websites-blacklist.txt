@@ -89,3 +89,4 @@ eurobak.kz
 *.rothschildcorp.com
 *.ct.sendgrid.net
 *.track.techautomationtoday.com
+*.dhlvarna.pythonanywhere.com
