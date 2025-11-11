@@ -90,3 +90,4 @@ eurobak.kz
 *.ct.sendgrid.net
 *.track.techautomationtoday.com
 *.dhlvarna.pythonanywhere.com
+|*.pythonanywhere.com
