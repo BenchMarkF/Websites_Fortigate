@@ -92,3 +92,4 @@ eurobak.kz
 *.dhlvarna.pythonanywhere.com
 *.pythonanywhere.com
 *.mydhl.express.dhl
+tinyurl.com/prwcrbju/
