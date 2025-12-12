@@ -94,3 +94,4 @@ eurobak.kz
 *.mydhl.express.dhl
 tinyurl.com
 ekont-bf30b-3ff31.web.app
+*.libertyweld.com
