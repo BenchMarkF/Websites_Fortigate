@@ -95,3 +95,4 @@ eurobak.kz
 tinyurl.com
 ekont-bf30b-3ff31.web.app
 *.libertyweld.com
+*.wasabisys.com
