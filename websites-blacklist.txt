@@ -96,3 +96,6 @@ tinyurl.com
 ekont-bf30b-3ff31.web.app
 *.libertyweld.com
 *.wasabisys.com
+0000:0000:0000:0000:0000:FFFF:D93C:EDA2
+217.60.237.162
+::ffff:217.60.237.162
