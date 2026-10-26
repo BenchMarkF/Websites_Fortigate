@@ -100,3 +100,4 @@ ekont-bf30b-3ff31.web.app
 217.60.237.162
 ::ffff:217.60.237.162
 *.foxsupport.co.uk
+*.padipagam.in
